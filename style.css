@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    align-content: center;
+    background: linear-gradient(to bottom right,purple,darkblue,skyblue,lime,yellow,orange,red,purple);
+    background-repeat: no-repeat;
+}
+.p {
+    color: #ff0000;
+    font-size: 40px;
+    font-weight: 200px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.cp {
+    color: #000000;
+    font-size: 40px;
+    font-weight: 200px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h4 {
+    color: #000000;
+    font-size: 40px;
+    font-weight: 200px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
